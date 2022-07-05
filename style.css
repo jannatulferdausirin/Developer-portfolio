@@ -6,7 +6,7 @@ h1{
     font: size 100%
 }
 h2{
-    font-size: 50%;
+    font-size: 100%;
 }
 
 .orenge-color{
@@ -15,6 +15,7 @@ h2{
 
 section{
     display: flex;
+    border-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -35,3 +36,13 @@ section{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
+.Dream-big{
+background-image: url(dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+
+}
+
+
+
+
